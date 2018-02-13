@@ -5,8 +5,10 @@ The map can be a grid based map or a visiblity graph. The repository tries to so
 Follwing are the conditions that are assumed:-    
 1)The robot and obstacle aare convex ploygons     
 2)The robot is assumed to be circular.    
-3)Currently,the codes are working for sigle obstacle in its configurational space.     
+3)Currently,the codes are working for sigle obstacle in its configurational space.    
 
+
+For Dijkstar Algorithm    
 Run the codes in the following sequence:-   
 1)Run script.m    
 2)Run shortres_path.m   
