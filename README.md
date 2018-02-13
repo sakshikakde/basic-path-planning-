@@ -11,5 +11,5 @@ Follwing are the conditions that are assumed:-
 For Dijkstar Algorithm    
 Run the codes in the following sequence:-   
 1)Run script.m    
-2)Run shortres_path.m   
+2)Run shortest_path.m   
 3)run trace_path.m    
